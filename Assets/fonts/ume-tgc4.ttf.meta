@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b2f21dd8215ffee4fabbe1c8d5a6170c
+timeCreated: 1530536317
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ume Gothic C4
+  fontNames:
+  - Ume Gothic C4
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
